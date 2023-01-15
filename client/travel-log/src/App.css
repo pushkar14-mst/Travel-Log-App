@@ -1,0 +1,13 @@
+#map {
+    height: 500px;
+    width: 500px;
+}
+
+#main-map {
+    height: 800px;
+    width: 750px;
+}
+
+#search-results {
+    cursor: default;
+}
